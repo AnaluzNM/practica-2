@@ -1,0 +1,29 @@
+h1{
+    color: blueviolet;
+    text-align: center;
+}
+
+h2{
+    color: blue;
+    background-color: aqua;
+}
+
+b{
+    color: brown;
+}
+
+em{
+    color: aquamarine;
+}
+
+p{
+    text-align: justify;
+    text-indent: 30px;
+    font-size: 20px;
+}
+
+*{
+    margin: 0;
+    background-color: crimson;
+    padding: 5px;
+}
